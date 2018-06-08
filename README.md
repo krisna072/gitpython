@@ -1,2 +1,2 @@
-# UAS-Bahasa-Pemograman
+# Tugas Kelompok Pemrograman Multi Platform
 Aplikasi Pemograman
